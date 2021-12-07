@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">android3</string>
+    <string name="task_name_hint">Insert title of the task</string>
+    <string name="task_name_label">Title</string>
+    <string name="task_details_label">Details</string>
+    <string name="task_done_label">Done</string>
+    <string name="task_item_name">Bruh</string>
+    <string name="task_item_date">bruh</string>
+    <string name="task_add_new">New task</string>
+    <string name="show_subtitle">Show title</string>
+    <string name="hide_subtitle">Hide title</string>
+    <string name="subtitle_format">%1$d of titles</string>
+</resources>
